@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">筆記本</string>
+    <string name="welcome">歡迎</string>
+    <string name="exit">退出</string>
+    <string name="back">返回</string>
+    <string name="close">關閉</string>
+    <string name="settings">設定</string>
+    <string name="custom">自訂</string>
+    <string name="characters">字數</string>
+
+    <string name="ok">確定</string>
+    <string name="sure">確定</string>
+    <string name="cancel">取消</string>
+
+    <string name="submit">提交</string>
+    <string name="edit">編輯</string>
+    <string name="share">分享</string>
+    <string name="delete">刪除</string>
+    <string name="copy">複製</string>
+    <string name="top_note">置頂筆記</string>
+    <string name="cancel_top_note">取消置頂筆記</string>
+    <string name="comment">批註</string>
+    <string name="choose">選擇</string>
+    <string name="collapse">收起</string>
+    <string name="read_more">查看更多</string>
+
+    <string name="all_note">全部</string>
+    <string name="tag">標籤</string>
+    <string name="category">分類</string>
+    <string name="tag_fix">修復標籤</string>
+    <string name="gallery">圖庫</string>
+    <string name="random_walk">漫步</string>
+    <string name="search_hint">搜尋</string>
+
+    <string name="any_thoughts">✍️記錄現在的想法…</string>
+    <string name="add_image">新增圖片</string>
+    <string name="take_photo">拍照</string>
+    <string name="record_audio">錄製音頻</string>
+    <string name="send">發送</string>
+    <string name="preview">預覽</string>
+    <string name="finish">完成</string>
+    <string name="need_microphone_permission">需要麥克風權限才能錄音</string>
+
+    <string name="sort">排序</string>
+    <string name="update_time_desc">更新時間降序</string>
+    <string name="update_time_asc">更新時間升序</string>
+    <string name="create_time_desc">建立時間降序</string>
+    <string name="create_time_asc">建立時間升序</string>
+
+    <string name="year">年</string>
+    <string name="day">日</string>
+    <string name="days">天</string>
+    <string name="date_range">日期範圍</string>
+    <string name="select_date">選擇日期範圍</string>
+    <string name="start_time">開始時間：</string>
+    <string name="end_date">結束時間：</string>
+    <string name="input_correct_date">請輸入有效的日期 (YYYYMMDD)</string>
+    <string name="date_not_correct">日期格式不正確，應為8位數字</string>
+
+    <string name="user_interface">主題與外觀</string>
+    <string name="theme_mode_switcher_text">主題</string>
+    <string name="language_mode_switcher_text">语言</string>
+    <string name="light_mode">淺色</string>
+    <string name="dark_mode">深色</string>
+    <string name="zh_cn">简体中文</string>
+    <string name="zh_tw">繁体中文</string>
+    <string name="english">英文</string>
+    <string name="follow_system">跟隨系統</string>
+    <string name="dynamic_color_switcher_text">動態取色</string>
+    <string name="dynamic_color_switcher_sub">Android 12+ 動態取色</string>
+
+    <string name="safe">安全與資料</string>
+    <string name="biometric_authentication">生物辨識認證</string>
+    <string name="biometric">生物辨識</string>
+
+    <string name="local_data_manager">資料</string>
+    <string name="data_backup">資料備份</string>
+    <string name="data_restore">資料還原</string>
+    <string name="data_backup_no_encr">資料備份（未加密）</string>
+    <string name="data_restore_no_encr">資料還原（未加密）</string>
+    <string name="export">匯出</string>
+    <string name="json_export">匯出 Json</string>
+    <string name="txt_export">匯出 Txt</string>
+    <string name="mk_export">匯出 Markdown</string>
+
+    <string name="html_export">導出網頁</string>
+    <string name="html_import">導入網頁</string>
+    <string name="import_notes_count">已導入 %1$d 條筆記</string>
+
+    <string name="title_local_auto_backup">自動備份</string>
+    <string name="notes_will_be">筆記每天會自動備份到手機的內部儲存空間中。\n\n如果開啟了省電模式，此功能可能無法正常運作。</string>
+
+    <string name="webdav_config">WebDAV 設定</string>
+    <string name="server_url">伺服器地址</string>
+    <string name="username">使用者名稱</string>
+    <string name="password">密碼</string>
+    <string name="webdav_auth">WebDAV 認證</string>
+    <string name="webdav_config_success">堅果雲設定成功</string>
+    <string name="webdav_backup">備份</string>
+    <string name="webdav_restore">還原</string>
+    <string name="choose_folder">選擇資料夾</string>
+
+    <string name="warm_reminder_desc">使用 # 加空格來區分標籤。\n\n例如：\n\n #生活 大道至簡。</string>
+    <string name="browse_tos_tips_service">《服務條款》</string>
+    <string name="browse_tos_tips_privacy">《隱私權政策》</string>
+    <string name="agree">同意</string>
+    <string name="execute_success">執行成功</string>
+    <string name="restart">需要重啟</string>
+    <string name="app_restored">應用程式資料已還原。您需要重新啟動應用程式。</string>
+    <string name="total_comments">共 %1$d 條批註</string>
+
+</resources>
